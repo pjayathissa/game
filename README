@@ -1,1 +1,8 @@
 Game designed for practice by PJ
+
+Finished:
+mapp.py: Creates and prints game map
+player.py: Contains the class that defines the main character (location, exp, level, stats)
+
+In Development:
+people.py: Contains the classes that defines other charachters in the game
